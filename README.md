@@ -1,16 +1,40 @@
-## Hi there 👋
+Olá, eu sou o Batheuzin! 👋
 
-<!--
-**Batheuzin-Game-Dev/Batheuzin-Game-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Developer com Godot | Python Developer
 
-Here are some ideas to get you started:
+Desenvolvo jogos 2D, sistemas interativos, ferramentas e aplicações backend, sempre buscando unir criatividade, código limpo e boas experiências para o usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou construindo projetos com Godot, GDScript e Python, estudando arquitetura de software e evoluindo meus conhecimentos em desenvolvimento backend.
+
+🎮 Sobre mim
+
+🕹️ Desenvolvendo jogos 2D com Godot
+
+🐍 Minha principal linguagem é Python
+
+⚙️ Tenho experiência com Django, FastAPI, Pandas e Polars
+
+🗄️ Trabalho com PostgreSQL, SQLite e processamento de dados
+
+🐹 Estou estudando Go para backend, APIs e microsserviços
+
+🧠 Gosto de criar sistemas, mecânicas e projetos do zero
+
+🚀 Buscando evoluir como Game Developer e Software Developer
+
+🛠️ Tecnologias
+
+
+Game Development
+
+
+Backend e Dados
+
+
+Banco de dados e infraestrutura
+
+
+📈 Estatísticas do GitHub
+
+Substitua **SEU_USUARIO** pelo seu nome de usuário do GitHub.
+
