@@ -33,8 +33,3 @@ Backend e Dados
 
 Banco de dados e infraestrutura
 
-
-📈 Estatísticas do GitHub
-
-Substitua **SEU_USUARIO** pelo seu nome de usuário do GitHub.
-
